@@ -4,9 +4,8 @@ This is the personal academic homepage of [Junteng Liu](https://github.com/Vicen
 
 The site includes:
 
-- **About / Home** — personal details, education, research interests, skills, research experience, publications, and contact information.
+- **About / Home** — personal details, education, research interests, skills, research experience, publications, awards, and contact information.
 - **Publications** — a full list of publications with individual pages.
-- **CV** — education, research experience, skills, publications, and awards.
 
 ## Site configuration
 
