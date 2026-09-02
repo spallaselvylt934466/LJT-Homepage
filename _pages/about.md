@@ -44,8 +44,7 @@ I am a first-year PhD candidate at the HKUST NLP Group, supervised by Professor 
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-{% assign sorted_publications = site.publications | sort: 'date' | reverse %}
-{% for post in sorted_publications %}
+{% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
