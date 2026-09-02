@@ -11,20 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science, Hong Kong University of Science and Technology, 2024 (expected)
+* Ph.D. in Computer Science, Hong Kong University of Science and Technology, 2024–Present
 * B.Eng., Shanghai Jiao Tong University, 2020–2024
 
 Research experience
 ======
-* Feb 2025 – Present: Research Intern
+* February 2025 – Present: Research Intern
   * MINIMAX
-  * Research on LLM reasoning and reinforcement learning
 
-* Jun 2024 – Sep 2024: Research Intern
+* June 2024 – September 2024: Research Intern
   * Tencent WXG
   * Supervisor: Zifei Shan
 
-* Jun 2023 – Dec 2023: Research Intern
+* June 2023 – December 2023: Research Intern
   * Shanghai AI Lab
   * Supervisor: Prof. Yu Cheng
 
@@ -42,18 +41,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Service and leadership
+Awards
 ======
 * Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
