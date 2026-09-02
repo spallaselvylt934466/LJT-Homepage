@@ -9,12 +9,6 @@ redirect_from:
 
 I am a first-year PhD candidate at the [HKUST NLP Group](https://hkust-nlp.github.io/), supervised by Prof. [Junxian He](https://jxhe.github.io/). I graduated from Shanghai Jiao Tong University (SJTU) in June 2024. My research focuses on natural language processing and machine learning.
 
-## News
-
-- **[2025]** Our paper *SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond* is released on arXiv.
-- **[2025]** Our paper *On the Perception Bottleneck of VLMs for Chart Understanding* is released on arXiv.
-- **[2024]** *On the Universal Truthfulness Hyperplane Inside LLMs* is published at EMNLP 2024.
-
 ## Education
 
 - **Ph.D. in Computer Science**, Hong Kong University of Science and Technology, 2024–Present
