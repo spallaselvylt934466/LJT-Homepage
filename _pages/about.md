@@ -20,6 +20,14 @@ I am a first-year PhD candidate at the HKUST NLP Group, supervised by Professor 
 - Hallucination in Vision-Language Models (VLM)
 - LLM Truthfulness and Interpretability
 
+## Skills
+
+- Natural Language Processing
+- Machine Learning
+- LLM Reasoning and Reinforcement Learning
+- Hallucination in Vision-Language Models (VLM)
+- LLM Truthfulness and Interpretability
+
 ## Research Experience
 
 - **Research Intern**, MINIMAX, February 2025 – Present
